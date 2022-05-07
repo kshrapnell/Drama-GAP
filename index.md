@@ -4,6 +4,8 @@
 
 [First Page](first_page.md)
 
+[Second Page](docs/second_page.md)
+
 
 You can use the [editor on GitHub](https://github.com/kshrapnell/Drama-GAP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

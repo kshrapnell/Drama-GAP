@@ -1,6 +1,26 @@
-layout: page
+---
+layout: default
 title: "First Page"
-permalink: /URL-PATH/
-
+---
 
 # Test First Page
+
+Bulk content
+
+Bulk content
+
+Bulk content
+
+Bulk content
+
+Bulk content
+
+Bulk content
+
+Bulk content
+
+Bulk content
+
+Bulk content
+
+Bulk content

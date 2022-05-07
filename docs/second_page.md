@@ -8,6 +8,8 @@ Bulk content
 
 Bulk content
 
+![Baynard](/img/Baynard_Castle.jpeg)
+
 Bulk content
 
 Bulk content

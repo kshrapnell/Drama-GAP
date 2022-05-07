@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 -> Opening Changes
-[First Page](first_page)
+[First Page](first_page.md)
 
 
 You can use the [editor on GitHub](https://github.com/kshrapnell/Drama-GAP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
